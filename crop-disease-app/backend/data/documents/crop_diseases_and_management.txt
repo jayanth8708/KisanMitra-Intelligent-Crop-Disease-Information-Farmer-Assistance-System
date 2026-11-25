@@ -1,0 +1,164 @@
+# ── Vegetable Crop Diseases
+# Source: TNAU Agritech Portal / UAS Bengaluru
+
+## Tomato Early Blight (Alternaria solani)
+
+### Symptoms
+- Dark brown to black lesions with concentric rings (target-board pattern)
+- Yellow halos around lesions
+- Lesions on older/lower leaves first
+- Severe defoliation; fruit lesions with leathery, sunken spots
+
+### Management
+- Remove and destroy infected plant debris
+- Mancozeb 75% WP @ 2.5 g/L or Chlorothalonil 75% WP @ 2 g/L
+- Spray at 10-day intervals during rainy season
+- Use disease-free transplants; grow tolerant varieties
+
+## Tomato Late Blight (Phytophthora infestans)
+
+### Symptoms
+- Water-soaked, irregular lesions on leaves turning brown
+- White sporulation visible on underside of leaves in humid conditions
+- Brown, firm lesions on green fruits
+- Rapid plant collapse in cool, wet weather
+
+### Management
+- Metalaxyl-M + Mancozeb @ 2.5 g/L
+- Cymoxanil + Mancozeb @ 2.5 g/L
+- Spray preventively during cool/rainy weather
+- Avoid overhead irrigation; improve drainage
+
+## Chilli Anthracnose (Colletotrichum spp.)
+
+### Symptoms
+- Circular, water-soaked lesions on green and ripe fruits
+- Lesions turn brown to dark with orange-pink spore masses
+- Premature fruit drop
+
+### Management
+- Carbendazim 50% WP @ 1 g/L or Thiophanate-methyl @ 1.5 g/L
+- Hot water seed treatment (52°C for 30 minutes)
+- Avoid injuries during harvest
+
+---
+
+# ── Cotton Pest and Disease Management
+# Source: ICAR – Central Institute for Cotton Research (CICR)
+
+## Cotton Bollworm (Helicoverpa armigera)
+
+### Damage
+- Larvae bore into bolls, squares, and young shoots
+- Round holes in bolls with frass
+- Heavy boll shedding reduces yield significantly
+
+### IPM Strategy
+1. Install pheromone traps @ 5/ha for monitoring (threshold: 8–10 moths/trap/week)
+2. Spray NPV (Nuclear Polyhedrosis Virus) @ 250 LE/ha at early larval stage
+3. Release Trichogramma chilonis @ 1,50,000/ha/week (egg parasitoid)
+4. Chemical: Spinosad 45% SC @ 0.3 ml/L or Emamectin benzoate 5% SG @ 0.4 g/L
+
+## Cotton Leaf Curl Virus (CLCuV)
+
+### Symptoms
+- Curling and cupping of leaves upward or downward
+- Thickening and darkening of veins
+- Enation (leaf-like outgrowths) on leaf undersurface
+- Stunting; no boll formation in severe cases
+
+### Management
+- Use Bt cotton or CLCuD-tolerant varieties
+- Control whitefly (vector): Imidacloprid 17.8% SL @ 0.3 ml/L (seed treatment preferred)
+- Avoid high nitrogen; remove and destroy infected plants
+
+---
+
+# ── Soil Health and Fertilizer Management
+# Source: ICAR – Indian Institute of Soil Science (IISS) / Soil Health Card Scheme
+
+## Importance of Soil Health Cards
+The Indian Government's Soil Health Card (SHC) scheme provides:
+- NPK status
+- Secondary nutrients (S, Ca, Mg)
+- Micronutrients (Zn, Fe, Cu, Mn, B)
+- Soil pH and electrical conductivity
+
+Contact your nearest KVK or soil testing laboratory for a free soil health card.
+
+## Zinc Deficiency (Very Common in Indian Soils)
+
+### Symptoms
+- Khaira disease in rice (pale yellow-brown streaks and spots)
+- Brown rust-like spots on rice leaves
+- Interveinal chlorosis in maize and vegetables
+- Delayed maturity
+
+### Correction
+- Zinc Sulphate (ZnSO4·7H2O) @ 25 kg/ha as basal application
+- Foliar spray: 0.5% ZnSO4 + 0.25% lime solution
+
+## Iron Deficiency
+
+### Symptoms
+- Interveinal chlorosis on young/upper leaves (stays green along veins)
+- Common in calcareous (high pH) soils
+
+### Correction
+- Ferrous Sulphate 1% foliar spray (2–3 sprays at weekly intervals)
+- Soil application less effective in alkaline soils
+
+---
+
+# ── Government Schemes for Farmers (India)
+# Source: Ministry of Agriculture & Farmers Welfare
+
+## PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)
+- Direct income support: ₹6,000/year in 3 installments of ₹2,000
+- Eligibility: Small and marginal farmer families with cultivable land
+- Register at pmkisan.gov.in or nearest Common Service Centre (CSC)
+
+## Pradhan Mantri Fasal Bima Yojana (PMFBY)
+- Crop insurance scheme
+- Premium: 2% for Kharif, 1.5% for Rabi, 5% for horticulture
+- Covers yield losses due to natural calamities, pests, diseases
+- Enroll through banks or state agriculture department
+
+## eNAM (National Agriculture Market)
+- Online trading platform for agricultural commodities
+- Helps farmers get better prices by connecting to buyers
+- Register at enam.gov.in
+
+## Kisan Credit Card (KCC)
+- Provides short-term credit for crop production
+- Interest subvention of 2%; additional 3% for prompt repayment
+- Apply through nationalized banks, cooperative banks, or RRBs
+
+---
+
+# ── Organic Farming Practices
+# Source: ICAR – National Centre of Organic Farming (NCOF)
+
+## Benefits of Organic Farming
+- Improves soil health and biodiversity
+- Reduces chemical input costs
+- Premium prices for certified organic produce
+- Environmentally sustainable
+
+## Key Organic Inputs
+
+### Vermicompost
+- Prepare using earthworms (Eisenia fetida)
+- Application: 5–10 tonnes/ha
+- Rich in plant-available N, P, K and beneficial microbes
+
+### Jeevamrit / Panchagavya
+- Traditional biostimulants used in Vedic farming
+- Improves microbial activity in soil
+
+### Neem-based Products
+- Neem cake: 250 kg/ha as soil application (pest repellent + fertilizer)
+- Neem oil 3% (NSKE – Neem Seed Kernel Extract) for pest control
+
+## Certification
+Contact APEDA (apeda.gov.in) or state organic certification bodies for Participatory Guarantee System (PGS) or third-party certification.

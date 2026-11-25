@@ -1,0 +1,193 @@
+# ── Crop Disease: Rice Blast (Magnaporthe oryzae)
+# Source: ICAR – National Rice Research Institute (NRRI)
+
+## Overview
+Rice blast, caused by the fungal pathogen Magnaporthe oryzae, is the most devastating disease of rice worldwide. It can cause 10–30% yield losses in India under favorable conditions.
+
+## Symptoms
+- Leaf blast: Diamond-shaped lesions with gray centers and brown margins on leaves
+- Neck blast: Brown lesion at the base of the panicle (most damaging stage)
+- Node blast: Black lesions on nodes causing lodging
+- Panicle blast: Brown or black lesions on panicle rachis
+
+## Favorable Conditions
+- High humidity (>90%)
+- Temperature 25–30°C
+- Excess nitrogen fertilization
+- Heavy dew and cloudy weather
+- Susceptible varieties
+
+## Prevention
+1. Use resistant/tolerant varieties (e.g., Pusa Basmati 1509, Swarna Sub1)
+2. Avoid excess nitrogen application, especially at tillering
+3. Balanced fertilization with potassium and silicon
+4. Wider spacing to improve aeration
+5. Avoid overhead irrigation if possible
+6. Treat seeds with fungicide before sowing (Carbendazim 2g/kg or Trichoderma 4g/kg)
+7. Burn/destroy infected crop debris
+
+## Chemical Management
+- Tricyclazole 75% WP @ 0.6 g/L water
+- Isoprothiolane 40% EC @ 1.5 ml/L water
+- Carbendazim 50% WP @ 1 g/L water
+- Spray at boot leaf stage and repeat after 15 days if necessary
+
+## Biological Control
+- Pseudomonas fluorescens @ 2.5 kg/ha as soil application
+- Trichoderma viride @ 4g/kg seed treatment
+
+## Note
+Always confirm diagnosis with ICAR-NRRI or your local KVK before applying fungicides. Use only registered pesticides as per CIB&RC guidelines.
+
+---
+
+# ── Crop Disease: Wheat Rust (Puccinia spp.)
+# Source: ICAR – Indian Institute of Wheat and Barley Research (IIWBR)
+
+## Types
+1. Yellow Rust (Stripe Rust) – Puccinia striiformis
+2. Brown Rust (Leaf Rust) – Puccinia triticina
+3. Black Rust (Stem Rust) – Puccinia graminis
+
+## Symptoms
+- Yellow rust: Yellow-orange stripes in rows along leaf veins
+- Brown rust: Orange-brown pustules scattered on leaves
+- Black rust: Large, dark brown/black pustules on stems and leaves
+
+## Favorable Conditions
+- Cool, moist weather (10–20°C for yellow rust)
+- High humidity and dew
+- Dense plant stands
+
+## Prevention
+1. Grow rust-resistant wheat varieties (K 307, HD 2781, PBW 343)
+2. Timely sowing (November – early December in North India)
+3. Avoid late sowing
+4. Avoid excess nitrogen
+
+## Chemical Management
+- Propiconazole 25% EC @ 0.1% (1 ml/L)
+- Mancozeb 75% WP @ 0.25% (2.5 g/L)
+- Tebuconazole 25% EC @ 0.1%
+- Apply when 5% disease incidence observed; repeat after 15–21 days
+
+## Source
+ICAR-IIWBR, Karnal. Contact your state agricultural university for variety recommendations.
+
+---
+
+# ── Nutrient Management: Nitrogen Deficiency
+# Source: TNAU Agritech Portal
+
+## Nitrogen (N) Deficiency Symptoms
+- Yellowing (chlorosis) starting from older/lower leaves
+- Leaves turn pale green, then yellow, then dry up
+- Stunted plant growth
+- Reduced tillering in cereals
+- Premature leaf drop
+
+## Crops Affected
+All crops, particularly cereals (rice, wheat, maize), vegetables, and pulses.
+
+## Causes
+- Sandy or low-organic-matter soils
+- Waterlogged soils (nitrogen leaching)
+- Cool soil temperatures (slow mineralization)
+- Excessive rainfall
+
+## Correction
+- Apply urea (46% N) @ recommended dose based on soil test
+- Rice: 120 kg N/ha (apply in 3 splits)
+- Wheat: 120 kg N/ha
+- Use fertigation in drip-irrigated crops
+- Incorporate organic matter (FYM, compost) to improve N retention
+
+## Caution
+Excessive nitrogen application causes:
+- Lodging (stem weakness)
+- Increased pest and disease susceptibility
+- Environmental pollution (nitrate leaching)
+Always base fertilizer rates on soil health card recommendations.
+
+---
+
+# ── Pest Management: Brown Plant Hopper (BPH) in Rice
+# Source: Directorate of Rice Research (DRR), ICAR
+
+## Pest
+Nilaparvata lugens – Brown Plant Hopper
+
+## Damage Symptoms
+- Circular patches of dried, brown plants (hopperburn)
+- Yellowing and wilting of plants
+- Honeydew secretion on lower plant parts (sooty mold develops)
+- Plants fall flat (lodging) in severe cases
+
+## Favorable Conditions
+- Dense planting
+- Excessive nitrogen
+- High humidity and stagnant water
+
+## Integrated Pest Management (IPM)
+1. Use resistant varieties (Jaya, IR 36, IR 64, Swarna)
+2. Avoid continuous flooding – drain fields periodically
+3. Reduce nitrogen fertilization
+4. Light traps to monitor adult populations
+5. Release natural enemies: Cyrtorhinus lividipennis (predator)
+
+## Chemical Control (Last resort)
+- Buprofezin 25% SC @ 1 ml/L
+- Imidacloprid 17.8% SL @ 0.3 ml/L (directed at base of plant)
+- Thiamethoxam 25% WG @ 0.3 g/L
+- Do NOT use broad-spectrum pyrethroids (kill natural enemies)
+
+## Monitoring
+- Economic Threshold Level (ETL): 5–10 BPH per hill
+- Inspect fields weekly during tillering to heading stage
+
+---
+
+# ── Irrigation Management in Indian Agriculture
+# Source: ICAR – Indian Institute of Water Management (IIWM) + FAO
+
+## Water Requirements by Crop (Approximate)
+| Crop       | Water Requirement | Critical Stages               |
+|------------|-------------------|-------------------------------|
+| Rice       | 1200–1600 mm      | Tillering, flowering, grain filling |
+| Wheat      | 450–650 mm        | Crown root initiation, booting, grain filling |
+| Cotton     | 700–1200 mm       | Squaring, boll development     |
+| Sugarcane  | 1500–2500 mm      | Grand growth period            |
+| Groundnut  | 500–700 mm        | Pegging, pod development       |
+| Tomato     | 400–600 mm        | Flowering and fruiting         |
+| Maize      | 500–800 mm        | Tasseling and grain filling    |
+
+## Efficient Irrigation Methods
+1. Drip Irrigation – best for vegetables, cotton, sugarcane
+2. Sprinkler Irrigation – suitable for groundnut, wheat, vegetables
+3. Alternate Wetting and Drying (AWD) – rice (saves 25–30% water)
+4. Furrow irrigation – for row crops
+
+## Government Schemes
+- Pradhan Mantri Krishi Sinchayee Yojana (PMKSY): Subsidy for micro-irrigation
+- Per Drop More Crop: 55% subsidy for small/marginal farmers on drip/sprinkler
+
+---
+
+# ── Post-Harvest Management
+# Source: ICAR – Central Institute of Post-Harvest Engineering and Technology (CIPHET)
+
+## Key Post-Harvest Losses in India
+India loses approximately 16–18% of food grains due to improper post-harvest management.
+
+## Best Practices
+1. Harvest at proper maturity (moisture content <14% for grains)
+2. Use clean, moisture-free storage bags/bins
+3. Treat storage structures with malathion or deltamethrin
+4. Use hermetic storage bags for small farmers
+5. Monitor for weevils, moths, and rodents
+6. Cold storage for vegetables and fruits (temperature 0–5°C)
+
+## Supported Schemes
+- National Food Security Mission
+- Gramin Bhandaran Yojana (rural godown construction subsidy)
+Contact your nearest NABARD or state cooperative bank for scheme details.
